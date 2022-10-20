@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choksi</h1>
-<h3 align="center">JUNIOR MERN STACK DEVELOPER AND FLUTTER DEVELOPER</h3>
+<h3 align="center">FRESHER MERN STACK DEVELOPER AND FLUTTER DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=032abhishekchoksi&label=Profile%20views&color=0e75b6&style=flat" alt="032abhishekchoksi" /> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@abhishekchoksi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishekchoksi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekchoksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekchoksi" height="30" width="40" /></a>
-<a href="https://fb.com/abhishek choksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek choksi" height="30" width="40" /></a>
+<a href="https://fb.com/abhishek choksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekchoksi" height="30" width="40" /></a>
 <a href="https://instagram.com/choksi_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choksi_abhishek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abhishek_choksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek_choksi" height="30" width="40" /></a>
 <a href="https://discord.gg/#5598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5598" height="30" width="40" /></a>
