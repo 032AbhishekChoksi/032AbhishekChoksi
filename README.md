@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=032abhishekchoksi" alt="032abhishekchoksi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abhishekchoksi2" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishekchoksi2?logo=twitter&style=for-the-badge" alt="@abhishekchoksi2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhishekchoksi2" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekchoksi2?logo=twitter&style=for-the-badge" alt="abhishekchoksi2" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/032AbhishekChoksi](https://github.com/032AbhishekChoksi)
 
